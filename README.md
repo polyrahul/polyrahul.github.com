@@ -1,3 +1,7 @@
+# Test profile page
+
+Based on The Personal Page by weightshift.com. Credits follow.
+
 =============================
 
 The Personal Page
